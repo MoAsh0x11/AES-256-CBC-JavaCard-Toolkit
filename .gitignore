@@ -1,0 +1,12 @@
+*.class
+*.cap
+*.jar
+bin/
+deliverables/
+# Python cache
+__pycache__/
+*.pyc
+# IDE /OS
+.idea/
+.vscode/
+.DS_Store
